@@ -1,0 +1,142 @@
+NAME: PATEL MUSKAN
+ROLL NUMBER: 22DCO04
+
+                                                           EXPERIMENT NUMBER : 02
+
+                                         AIM: TO APPLY TRADITIONAL PROCESS MODEL FOR THE SELECTED CASE STUDY.
+                                                                        
+THEORY:
+RAD is a linear sequential software development process model that emphasizes a
+concise development cycle using an element based construction approach. If the
+requirements are well understood and described, and the project scope is a constraint,
+the RAD process enables a development team to create a fully functional system within
+a concise time period.
+RAD (Rapid Application Development) is a concept that products can be developed faster and of higher quality
+through:
+• Gathering requirements using workshops or focus groups
+• Prototyping and early, reiterative user testing of designs
+• The re-use of software components
+• A rigidly paced schedule that refers design improvements to the next product version
+• Less formality in reviews and other team communication
+The various phases of RAD are as follows:
+1.Business Modelling: The information flow among business functions is defined by answering questions like
+what data drives the business process, what data is generated, who generates it, where does the information go,
+who process it and so on.
+2. Data Modelling: The data collected from business modeling is refined into a set of data objects (entities) that
+are needed to support the business. The attributes (character of each entity) are identified, and the relation
+between these data objects (entities) is defined.
+Process Modelling: The information object defined in the data modeling phase are transformed to achieve the
+data flow necessary to implement a business function. Processing descriptions are created for adding, modifying,
+deleting, or retrieving a data object.
+4. Application Generation: Automated tools are used to facilitate construction of the software; even they use
+the 4th GL techniques.
+5. Testing & Turnover: Many of the programming components have already been tested since RAD emphasis
+reuse. This reduces the overall testing time. But the new part must be tested, and all interfaces must be fully
+exercised.
+
+ADVANTAGES OF RAD MODEL:
+• In this model, changes are adoptable.
+• Each phase in RAD brings highest priority functionality to the customer.
+• It reduced development time.
+• It increases the reusability of features.
+• This model is flexible for change.
+
+DISADVANTAGE OF OF RAD MODEL:
+• It required highly skilled designers.
+• All application is not compatible with RAD.
+• For smaller projects, we cannot use the RAD model.
+• On the high technical risk, it's not suitable.
+• Required user involvement.
+
+SUITABILITY JUSTIFICATION:
+1. Quick Development: RAD focuses on rapid prototyping and iterative development,
+allowing for faster delivery of working software. In the case of a fundraising website,
+where time-to-market is essential, RAD can help in quickly building and deploying
+essential features to start collecting donations.
+2. User Involvement: RAD encourages frequent user involvement and feedback during the development
+process. In the context of a fundraising website, this is beneficial as it allows fundraisers and donors to
+actively participate in shaping the platform and ensuring that it meets their specific needs and
+expectations.
+3. Flexible and Adaptable: The fundraising landscape can be dynamic, and requirements may change as the
+platform evolves or as new fundraising trends emerge. The RAD model's iterative approach enables the
+website to adapt to these changes more easily, allowing for continuous improvement and refinement.
+4. Reduced Development Cost: RAD's focus on reusability of components and faster development cycles
+can lead to cost savings. For fundraising websites, especially if they are for non-profit organizations or
+startups with limited budgets, cost-effectiveness can be a crucial factor.
+5. High-Quality Output: RAD emphasizes the use of prototypes and iterative testing, which helps in
+
+identifying and resolving issues early in the development process. This approach can lead to a higher-
+quality final product for the fundraising website.
+
+6. Collaborative Development: RAD promotes close collaboration between developers, stakeholders, and
+end-users. For a fundraising website, this collaborative approach can help ensure that the platform aligns
+with the organization's mission, values, and goals.
+7. Time-Bound Projects: RAD is well-suited for time-bound projects, where there is a need to deliver the
+product within a tight schedule. Many fundraising campaigns are time-sensitive, and RAD's rapid
+development approach can cater to these time constraints effectively.
+PROCEDURE:
+Step 1: Project Planning and Requirements Gathering
+• Define the project scope, objectives, and target audience for the fundraising website.
+• Identify the key features and functionalities required, such as user registration, campaign creation,
+donation processing, social sharing, etc.
+• Gather requirements through workshops, interviews, and surveys involving stakeholders, fundraisers,
+donors, and potential users.
+Step 2: Quick Design and Prototyping
+• Create a high-level design and wireframes for the website's main pages and functionalities.
+• Develop rapid prototypes using RAD tools or web development frameworks to demonstrate the basic flow
+and user interactions.
+• Share the prototypes with stakeholders and gather feedback to iterate and refine the design.
+Step 3: Data Modeling and Backend Development
+
+• Design the database schema to store user information, fundraising campaigns, donations, and other
+relevant data.
+• Set up the backend infrastructure, including server configuration and database connectivity.
+• Implement the core functionalities of user registration, login, and basic profile creation.
+Step 4: Incremental Development of Features
+• Divide the website development into smaller increments, focusing on a few features in each iteration.
+• Develop and integrate features like campaign creation, campaign listing, donation processing, social media
+sharing, and notifications.
+• Test each increment thoroughly to ensure functionality and usability.
+Step 5: User Feedback and Iteration
+• Launch the website in a limited capacity to a group of real users, such as fundraisers and donors.
+• Collect feedback through user surveys, feedback forms, or interviews.
+• Analyze the feedback and identify areas for improvement and enhancement.
+Step 6: Continuous Integration and Deployment
+• Continuously integrate new features and improvements into the website.
+• Deploy the updates in short iterations, ensuring a rapid and seamless deployment process.
+Step 7: Security and Quality Assurance
+• Implement security measures to protect user data, especially payment-related information.
+• Conduct rigorous quality assurance and testing to identify and fix any bugs or issues.
+Step 8: Monitoring and Maintenance
+• Monitor the website's performance, traffic, and user interactions regularly.
+• Address any issues or bottlenecks promptly to ensure smooth operation.
+• Provide ongoing maintenance and support to keep the website running effectively.
+Step 9: Scaling and Expansion
+• As the fundraising website gains popularity and traction, be prepared to scale the infrastructure and
+resources to accommodate increased traffic and usage.
+
+OUTPUT:
+1. User Registration and Login: Users can register on the website, create accounts, and log in using their
+credentials.
+2. User Profiles: Each user will have a profile page where they can add information, profile pictures, and
+view their fundraising activities.
+3. Campaign Creation: Fundraisers can create campaigns with details about their cause, fundraising goals,
+and target amounts.
+4. Campaign Listings: The website will have a page displaying a list of active fundraising campaigns with
+summaries and links to individual campaign pages.
+5. Donation Processing: Users can make donations to the campaigns they support, and the website will
+handle secure payment processing.
+6. Social Media Sharing: Fundraisers and donors can easily share campaign pages on social media to reach
+a broader audience.
+7. Notifications: Users will receive notifications about campaign updates, new donations, and relevant
+activities.
+8. Comments and Messages: Donors can leave messages of support and encouragement on campaign pages.
+9. Analytics and Reporting: The website may include analytics to track campaign performance, donation
+trends, and user engagement.
+
+10. Feedback and Rating: Users can provide feedback and rate campaigns, helping to improve future
+fundraising efforts.
+11. Responsive Design: The website will be designed to work seamlessly on various devices, including
+desktops, tablets, and mobile phones.
+12. Security Measures: The website will implement security protocols to protect user data, especially during
+payment processing.

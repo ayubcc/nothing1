@@ -1,0 +1,66 @@
+NAME: PATEL MUSKAN
+ROLL NUMBER: 22DCO04
+
+                                                      EXPERIMENT NUMBER :01
+
+                       AIM: To develop a problem statement for applying various software engineering process activities.
+
+Describe idea/current state of affairs:
+The current state of affairs for education of underprivileged students is that many bright and talented
+children from low-income families are unable to pursue their education due to financial constraints. This
+has led to a widening gap in educational opportunities and outcomes, perpetuating the cycle of poverty.
+While there are various initiatives to promote education for underprivileged students, there is still a
+significant need for additional support. A fundraising website for poor student education would provide a
+platform for donors to support these students and help them achieve their full potential.
+Explain your problem:
+The problem that a fundraising website for poor student education aims to address is the financial
+barriers that prevent underprivileged students from accessing quality education. Many bright and
+talented children from low-income families are unable to pursue their education due to financial
+constraints, which has led to a widening gap in educational opportunities and outcomes, perpetuating the
+cycle of poverty. Despite various initiatives to promote education for underprivileged students, there is
+still a significant need for additional support. A fundraising website for poor student education would
+provide a platform for donors to support these students and help them achieve their full potential. The
+website would help bridge the gap between donors and students who need financial assistance to
+pursue their education.
+Backup your assertions:
+A fundraising website for poor student education would provide an opportunity for donors to give back to
+their community by supporting underprivileged students who are unable to pursue their education due to
+financial constraints. By donating to this cause, donors would be helping to bridge the gap in educational
+opportunities and outcomes, which would ultimately lead to a more equitable society. Additionally,
+supporting education for underprivileged students would help break the cycle of poverty, as education is
+one of the most effective tools for social and economic mobility. By giving back through a fundraising
+website for poor student education, donors would be making a meaningful and lasting impact on the lives
+of these students and their communities.
+Propose your solution:
+A fundraising website for poor student education would provide a platform for donors to support
+underprivileged students who are unable to pursue their education due to financial constraints. The
+website would allow students to create profiles and share their stories, needs, and goals with potential
+donors. Donors would be able to browse through profiles and select the students they would like to
+support. The website would also provide a secure and transparent payment system, as well as tools for
+tracking the progress of the students they support. Additionally, the website could partner with schools
+and non-profit organizations to identify students who are most in need of financial assistance and ensure
+that the funds are used effectively. By providing a convenient and transparent way for donors to support
+underprivileged students, a fundraising website for poor student education would help bridge the gap in
+educational opportunities and outcomes, and ultimately lead to a more equitable society.
+Explain the benefits of solution:
+1. Increased access to education: The website would help underprivileged students gain access to
+quality education that they may not have been able to afford otherwise.
+2. Bridging the gap in educational opportunities and outcomes: By providing financial assistance to
+underprivileged students, the website would help bridge the gap in educational opportunities and
+outcomes, which would lead to a more equitable society.
+3. Breaking the cycle of poverty: Education is one of the most effective tools for social and economic
+mobility, and supporting education for underprivileged students would help break the cycle of poverty.
+4. Convenience and transparency for donors: The website would provide a convenient and transparent
+way for donors to support underprivileged students, with tools for tracking the progress of the students
+they support.
+5. Collaboration with schools and non-profit organizations: The website could partner with schools and
+non-profit organizations to identify students who are most in need of financial assistance and ensure that
+
+the funds are used effectively.
+Conclude by summarizing the problem:
+The problem that a fundraising website for poor student education aims to address is the financial
+constraints that prevent underprivileged students from accessing quality education. By providing a
+platform for donors to support these students, the website would help bridge the gap in educational
+opportunities and outcomes, break the cycle of poverty, and ultimately lead to a more equitable society.
+The website would also provide a convenient and transparent way for donors to make a meaningful
+impact on the lives of these students and their communities.
